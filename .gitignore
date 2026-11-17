@@ -1,0 +1,51 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+hc_output/
+*.qws.bak
+*.rpt
+*.summary
+*.smsg
+*.sof
+*.pof
+*.jic
+*.sld
+*.qarlog
+*.qxp
+
+# ModelSim
+work/
+transcript
+vsim.wlf
+wlf*
+*.vstf
+*.wlf
+*.vcd
+
+# ISE / Vivado
+*.bit
+*.ngc
+*.ngd
+*.ncd
+*.pcf
+*.twr
+*.twx
+*.par
+*.xrpt
+*.ise.bak
+_ngo/
+xst/
+*_xst/
+*.lso
+*.srp
+*.prj
+*.log
+
+# General
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z

@@ -1,0 +1,169 @@
+D:/p4/p4/mips.v {1 {vlog -work work -vopt D:/p4/p4/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} D:/p4/p4/dm.v {1 {vlog -work work -vopt D:/p4/p4/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_1k
+
+Top level modules:
+	dm_1k
+
+} {} {}} D:/p4/p4/gpr.v {1 {vlog -work work -vopt D:/p4/p4/gpr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} D:/p4/p4/aluout.v {1 {vlog -work work -vopt D:/p4/p4/aluout.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module aluout
+
+Top level modules:
+	aluout
+
+} {} {}} D:/p4/p4/pc.v {1 {vlog -work work -vopt D:/p4/p4/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} D:/p4/p4/ir.v {1 {vlog -work work -vopt D:/p4/p4/ir.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ir
+
+Top level modules:
+	ir
+
+} {} {}} D:/p4/p4/br.v {1 {vlog -work work -vopt D:/p4/p4/br.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module br
+
+Top level modules:
+	br
+
+} {} {}} D:/p4/p4/controller.v {1 {vlog -work work -vopt D:/p4/p4/controller.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/p4/p4/mips_tb.v {1 {vlog -work work -vopt D:/p4/p4/mips_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} D:/p4/p4/m1.v {1 {vlog -work work -vopt D:/p4/p4/m1.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module m1
+
+Top level modules:
+	m1
+
+} {} {}} D:/p4/p4/dr.v {1 {vlog -work work -vopt D:/p4/p4/dr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dr
+
+Top level modules:
+	dr
+
+} {} {}} D:/p4/p4/m2.v {1 {vlog -work work -vopt D:/p4/p4/m2.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module m2
+
+Top level modules:
+	m2
+
+} {} {}} D:/p4/p4/outputDEV.v {1 {vlog -work work -vopt D:/p4/p4/outputDEV.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module outputDEV
+
+Top level modules:
+	outputDEV
+
+} {} {}} D:/p4/p4/m3.v {1 {vlog -work work -vopt D:/p4/p4/m3.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module m3
+
+Top level modules:
+	m3
+
+} {} {}} D:/p4/p4/timer.v {1 {vlog -work work -vopt D:/p4/p4/timer.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} D:/p4/p4/npc.v {1 {vlog -work work -vopt D:/p4/p4/npc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} D:/p4/p4/m4.v {1 {vlog -work work -vopt D:/p4/p4/m4.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module m4
+
+Top level modules:
+	m4
+
+} {} {}} D:/p4/p4/ext.v {1 {vlog -work work -vopt D:/p4/p4/ext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}} D:/p4/p4/alu.v {1 {vlog -work work -vopt D:/p4/p4/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/p4/p4/ar.v {1 {vlog -work work -vopt D:/p4/p4/ar.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ar
+
+Top level modules:
+	ar
+
+} {} {}} D:/p4/p4/cp0.v {1 {vlog -work work -vopt D:/p4/p4/cp0.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module cp0
+
+Top level modules:
+	cp0
+
+} {} {}} D:/p4/p4/bridge.v {1 {vlog -work work -vopt D:/p4/p4/bridge.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module bridge
+
+Top level modules:
+	bridge
+
+} {} {}} D:/p4/p4/im.v {1 {vlog -work work -vopt D:/p4/p4/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_1k
+
+Top level modules:
+	im_1k
+
+} {} {}} D:/p4/p4/inputDEV.v {1 {vlog -work work -vopt D:/p4/p4/inputDEV.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module inputDEV
+
+Top level modules:
+	inputDEV
+
+} {} {}}
